@@ -1,0 +1,18 @@
+{
+    "name": "raufa/oop_2e_jaar",
+    "require-dev": {
+        "phpunit/phpunit": "^11.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "Raufa\\Oop2eJaar\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Rauf010",
+            "email": "9014468@student.zadkine.nl"
+        }
+    ],
+    "require": {}
+}
